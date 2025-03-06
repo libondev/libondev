@@ -11,4 +11,8 @@ A coder who is passionate about web technologies and open source.
  - [My Blog](https://www.libondev.cn)
  - [E-Mail](mailto:bon.li@outlook.com)
 
+### Recent blogs:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 Thank you.
